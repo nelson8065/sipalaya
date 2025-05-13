@@ -1,0 +1,30 @@
+.parrent{
+    border: 2px solid black;
+    
+    height:900p;
+    display:flex;
+    flex-direction:column-reverse;
+    
+    justify-content:center;
+    align-items:end ;
+    /* single rosybrown */
+    gap : 20px;
+    flex-wrap:wrap;
+    align-content:start;
+    column-gap:  100px;
+    padding: auto;
+    flex-wrap:wrap;
+    justify-content:space-evenly
+    flex-start;
+    border-start-end-radius: 
+    ;
+    
+   
+
+}
+.box{
+
+    border: 2px solid rgb(204, 28, 28);
+    height: 100px;
+    width: 100px;
+}
